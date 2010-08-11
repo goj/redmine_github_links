@@ -12,5 +12,5 @@ Redmine::Plugin.register :redmine_github_links do
   description 'This plugin adds wiki macro for easy linking to GitHub'
   version '0.0.1'
   url 'http://github.com/goj/redmine_github_links'
-  author_url 'krzysiek-goj.blogspot.com'
+  author_url 'http://krzysiek-goj.blogspot.com'
 end
