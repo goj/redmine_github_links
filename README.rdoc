@@ -1,3 +1,8 @@
 = Redmine wiki macro for GitHub integration
 
 A simple plug-in that allows link to GitHub commits and repositories easily
+
+example usage:
+  {{github(goj/redmine_github_links)}}
+  {{github(goj/redmine_github_links, 0581b7371)}}
+  {{github(goj/redmine_github_links, 0581b7371, *awesome* plug-in's initial code code)}}
