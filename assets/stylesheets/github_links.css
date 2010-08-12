@@ -1,5 +1,5 @@
 a.github-link:before {
-    background: url("/plugin_assets/redmine_github_links/images/github.png") no-repeat;
+    background: url("/redmine/plugin_assets/redmine_github_links/images/github.png") no-repeat;
     content: "\A0";
     display: inline-block;
     width: 16px;
